@@ -2,8 +2,8 @@
  * @Author: Ralph
  * @Type_file[python//GO//json//Yaml//Other]: [python//GO//json//Yaml//Other]
  * @Date: 2020-11-02 08:16:58
- * @LastEditTime: 2020-11-02 08:17:57
- * @FilePath: /code/Arry/arrayexer.java
+ * @LastEditTime: 2020-11-02 22:11:36
+ * @FilePath: \java\javawork\Arry\arrayexer.java
  * @Effect: DO
  */
 public class arrayexer {
