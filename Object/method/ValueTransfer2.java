@@ -1,11 +1,3 @@
-/*
- * @Author: Ralph
- * @Type_file[python//GO//json//Yaml//Other]: [python//GO//json//Yaml//Other]
- * @Date: 2020-11-11 20:31:21
- * @LastEditTime: 2020-11-11 20:37:28
- * @FilePath: \javawork\Object\method\ValueTransfer2.java
- * @Effect: DO
- */
 public class ValueTransfer2 {
     public static void main(String[] args) {
         Date date = new Date();
@@ -15,7 +7,7 @@ public class ValueTransfer2 {
 
         ValueTransfer2 randoname =new ValueTransfer2();
         randoname.sawp(date);
-        
+
         System.out.println("m= "+ date.m +",n= " + date.n);
     }
 
