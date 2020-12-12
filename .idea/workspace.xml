@@ -2,94 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86062a97-a0ef-40cd-b40a-869e598d73cf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Pro_Permission_modifier/Pro_Permission_modifier.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit/Pro_inherit.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit/src/com/ralph/scm/Creature.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit/src/com/ralph/scm/Person.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit/src/com/ralph/scm/PersonTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit/src/com/ralph/scm/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit/src/com/ralph/scm/Student.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test1/Pro_inherit_test1.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test1/src/com/ralph/java/Kids.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test1/src/com/ralph/java/KidsTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test1/src/com/ralph/java/ManKind.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test2/Pro_inherit_test2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test2/src/Circle.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test2/src/Cylinder.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_inherit_test2/src/CylinderTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_object_1/src/com/ralph/bean/Customer.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_object_1/src/com/ralph/service/CustomerList.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_object_1/src/com/ralph/ui/CustomerView.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_object_1/src/com/ralph/util/CMUtility.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_overwrite/Pro_overwrite.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_overwrite/src/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_overwrite/src/com/ralph/java/Person.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_overwrite/src/com/ralph/java/PersonTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_overwrite/src/com/ralph/java/Student.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_super/Pro_super.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_super/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Student.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_superinherit/Pro_superinherit.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_superinherit/src/com/ralph/scm/Account.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_superinherit/src/com/ralph/scm/AccountTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_superinherit/src/com/ralph/scm/CheckAccount.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Pro_superinherit/src/com/ralph/scm/CheckAccountTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/ArrayDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/Arraystest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/Arraystest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/Arraytest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/Arrre.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/Arrre.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/MaoPao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/MaoPao.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arrPro.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arrPro.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arr_test_2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arr_test_2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arrayexer.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arrtest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arrtest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/arrtest1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Arry/yanghui.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Constructor/new.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Encapsulation/Class/Person.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Encapsulation/Class/PersonTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Encapsulation/Fengzhuang.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Encapsulation/Order.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Encapsulation/OrderTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Encapsulation/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Object_re.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Omethod.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Pro8_package/PackageImportTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Pro8_package/REDAME.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Pro_this/Boy.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Pro_this/Girl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/Pro_this/Marrytest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/method/ValueTransfer.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/method/ValueTransfer2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/method/Value_Transfer_Object/Circle.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/method/Value_Transfer_Object/PassObject.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/Object/recursion_method/recusion.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/BreakContinue/Break_con.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/Project_home/Faccount.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/Project_home/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/Project_home/Utility.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/Project_home/tempCodeRunnerFile.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/dowhile-test/Dowhile.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/dowhile-test/NestedCycle.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/dowhile-test/whileTrue.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/for-test/ForTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/for-test/ifTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/cycle/while-test/While_Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/project1/FAccount.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/project1/FAccount.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/project1/Utility.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/project1/Utility.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/old_code/review/cycle-review.java" afterPath="" />
+      <change beforePath="F:/$RECYCLE.BIN/S-1-5-21-21488624-3441180384-70273298-500/$I7WUDTB.go" afterPath="" />
+      <change beforePath="F:/$RECYCLE.BIN/S-1-5-21-21488624-3441180384-70273298-500/$IHF3DWZ.py" afterPath="" />
+      <change beforePath="F:/$RECYCLE.BIN/S-1-5-21-21488624-3441180384-70273298-500/$IPBCNKR" afterPath="" />
+      <change beforePath="F:/$RECYCLE.BIN/S-1-5-21-21488624-3441180384-70273298-500/$R7WUDTB.go" afterPath="" />
+      <change beforePath="F:/$RECYCLE.BIN/S-1-5-21-21488624-3441180384-70273298-500/$RHF3DWZ.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <ignored path="$PROJECT_DIR$/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,10 +20,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -108,10 +57,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="567" />
-    <option name="y" value="24" />
-    <option name="width" value="1142" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="434" />
+    <option name="y" value="152" />
+    <option name="width" value="1140" />
     <option name="height" value="1008" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -134,9 +83,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +114,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -270,48 +229,149 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86062a97-a0ef-40cd-b40a-869e598d73cf" name="Default" comment="" />
+      <created>1607773360784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607773360784</updated>
+      <workItem from="1607773364634" duration="79000" />
+      <workItem from="1607773465688" duration="125000" />
+      <workItem from="1607773611840" duration="107000" />
+      <workItem from="1607773744206" duration="84000" />
+      <workItem from="1607773864134" duration="7000" />
+      <workItem from="1607774884718" duration="119000" />
+      <workItem from="1607775619127" duration="27000" />
+      <workItem from="1607775882472" duration="60000" />
+    </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="615000" />
+    <option name="totallyTimeSpent" value="1851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="567" y="24" width="1142" height="1008" extended-state="1" />
+    <frame x="434" y="152" width="1140" height="1008" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33557048" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15008882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pro_inherit_test1/src/com/ralph/java/KidsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -404,17 +464,8 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -422,15 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -438,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -446,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
           <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -454,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,9 +501,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="53" column="9" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pro_super/src/com/ralph/scm/SuperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
