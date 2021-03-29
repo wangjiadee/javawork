@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1.1 (3)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/03SpringIOCtest/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03SpringIOCtest/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03SpringIOCtest/lib/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03SpringIOCtest/lib/spring-beans-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03SpringIOCtest/lib/spring-context-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03SpringIOCtest/lib/spring-core-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/03SpringIOCtest/lib/spring-expression-5.2.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="car1" class="com.ralph.bean.Car">
+        <property name="price" value="100000"></property>
+        <property name="carName" value="volvo"></property>
+        <property name="color" value="black"></property>
+    </bean>
+
+    <bean id="person" class="com.ralph.bean.Person" autowire="constructor">
+<!--        <property name="car" ref="car1"></property>-->
+    </bean>
+</beans>
+
+<!---->
