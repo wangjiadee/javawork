@@ -8,8 +8,11 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
+import ralph.ci.springboot.bean.Account;
 import ralph.ci.springboot.bean.User;
+import ralph.ci.springboot.service.AccountService;
 
 import javax.servlet.http.HttpSession;
 
@@ -23,6 +26,19 @@ public class IndexController {
 
     @Autowired
     JdbcTemplate jdbcTemplate;
+    @Autowired
+    AccountService accountService;
+
+    /**
+     * @Description 用于测试mybatis
+     */
+    @ResponseBody
+    @GetMapping("/acct")
+    public Account getById(@RequestParam("id") Long id){
+        return accountService.getAcctById(id);
+    }
+
+
 
     /**
      * @Description  用于测试druid
