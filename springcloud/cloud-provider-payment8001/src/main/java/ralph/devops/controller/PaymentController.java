@@ -11,6 +11,7 @@ import ralph.devops.service.PaymentService;
 
 import javax.annotation.Resource;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 /**
  * @author ralph
@@ -75,4 +76,28 @@ public class PaymentController {
         }
         return this.discoveryClient;
     }
+
+    /**
+     * @Description  自定义的轮询机制
+     * @return   返回服务接口
+     */
+    @GetMapping(value = "/payment/lb")
+    public String getPaymentLB() {
+        return serverPort;
+    }
+
+
+
+    @GetMapping(value = "/payment/feign/timeout")
+    public String paymentFeignTimeout()
+    {
+        // 业务逻辑处理正确，但是需要耗费3秒钟
+        try {
+            TimeUnit.SECONDS.sleep(3);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return serverPort;
+    }
+
 }

@@ -11,7 +11,15 @@
 
     <artifactId>cloud-consumer-order80</artifactId>
 
+
+
     <dependencies>
+<!--   spring-cloud-starter-netflix-eureka-client 默认携带ribbon   -->
+<!--        <dependency>-->
+<!--            <groupld>org.springframework.cloud</groupld>-->
+<!--            <artifactld>spring-cloud-starter-netflix-ribbon</artifactid>-->
+<!--        </dependency>-->
+
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
