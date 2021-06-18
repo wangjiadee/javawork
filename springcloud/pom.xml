@@ -25,6 +25,18 @@
         <module>cloud-consumer-feign-order80</module>
         <module>cloud-provider-hygtrix-payment8005</module>
         <module>cloud-consumer-feign-hystrix-order80</module>
+        <module>cloud-consumer-hystrix-dashboard9001</module>
+        <module>cloud-gateway-gateway9527</module>
+        <module>cloud-config-center3344</module>
+        <module>cloudalibaba-provider-payment9001</module>
+        <module>cloudalibaba-provider-payment9002</module>
+        <module>cloudalibaba-consumer-nacos-order83</module>
+        <module>cloudalibaba-config-nacos-client3377</module>
+        <module>cloudalibaba-sentinel-service8401</module>
+        <module>cloudalibaba-provider-payment9003</module>
+        <module>cloudalibaba-provider-payment9004</module>
+        <module>cloudalibaba-consumer-nacos-order84</module>
+        <module>seata-order-service2001</module>
     </modules>
 
 

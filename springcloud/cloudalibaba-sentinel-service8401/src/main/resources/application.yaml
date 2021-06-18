@@ -1,0 +1,33 @@
+server:
+  port: 8401
+
+spring:
+  application:
+    name: cloudalibaba-sentinel-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: <nacos_ip>:<nacos_port> #Nacos服务注册中心地址
+    sentinel:
+      transport:
+        dashboard: <Sentinel_ip>:8080 #配置Sentinel dashboard地址
+        port: 8719
+      datasource:
+        ds1:
+          nacos:
+            server-addr: <nacos_ip>:1111
+            dataId: cloudalibaba-sentinel-service
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+feign:
+  sentinel:
+    enabled: true # 激活Sentinel对Feign的支持
